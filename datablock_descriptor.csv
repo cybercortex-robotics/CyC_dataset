@@ -1,4 +1,4 @@
-vision_core_id,filter_id,name,type,output_data_type,input_sources
+core_id,filter_id,name,type,output_data_type,input_sources
 1,1,CameraFront,1,4,
 1,2,CameraFrontLeft,1,4,
 1,3,CameraFrontRight,1,4,
